@@ -6,4 +6,4 @@
 - 😄 Pronouns: they
 - ⚡ Fun fact: Whales have tiny feet in their skeleton and lobsters don't answer when you ask them for their age.
 
-Some of my projects are in disarray or just up to snuff for personal use only, but I'm highly susceptible to external motivation. If you're interested in any of them feel free to open an issue and I will be immediatly available to polish up my projects for your use!
+Some of my projects are in disarray or only up to snuff for personal use, but I'm highly susceptible to external motivation. If you're interested in any of them feel free to open an issue and I will be immediatly available to polish up my projects for your use!
