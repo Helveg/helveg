@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on lots of projects related to my PhD in neuroscience, I love tooling!
-- 💬 Ask me about cycling, doing things you shouldn't do in Python.
+- 💬 Ask me about cycling, hiking or doing things you shouldn't do in Python.
 - 📫 How to reach me: GitHub notifications are my go-to drugs.
 - 😄 Pronouns: they
 - ⚡ Fun fact: Whales have tiny feet in their skeleton and lobsters don't answer when you ask them for their age.
