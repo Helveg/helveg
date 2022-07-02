@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on lots of projects related to my PhD in neuroscience, I love tooling!
+- 🔭 I’m currently working on lots of projects related to my PhD in neuroscience!
 - 💬 Ask me about cycling, hiking or doing things you shouldn't do in Python.
 - 📫 How to reach me: GitHub notifications are my go-to drugs.
 - 😄 Pronouns: they
