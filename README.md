@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently starting my own company, with my loving partner @elide-b, if you're in need of science/software consulting, let us know.
+- 🔭 I’m currently starting my own company, with my loving partner [@elide-b](https://github.com/elide-b), if you're in need of science/software consulting, let us know.
 - 💬 Ask me about cycling, hiking or doing things you shouldn't do in Python.
 - 📫 How to reach me: GitHub notifications are my go-to drugs.
 - 😄 Pronouns: they (or die/hun in my native language, Dutch)
